@@ -1,0 +1,27 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "I am a full stack web developer. I can manage every things. ",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-group-css-media-queries": "^1.2.0",
+    "gulp-sass": "^2.3.2"
+  },
+  "scripts": {
+    "test": "resume"
+  },
+  "repository": {
+    "type": "git",
+    "url": "resume"
+  },
+  "keywords": [
+    "php",
+    "mysql",
+    "ajax"
+  ],
+  "author": "Saiful",
+  "license": "ISC"
+}
